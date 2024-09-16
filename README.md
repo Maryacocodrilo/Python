@@ -1,3 +1,3 @@
 # Python
-Apuntes de python 
-Para empezar tengo que ver a ver como funciona esto
+Apuntes de python
+Si
